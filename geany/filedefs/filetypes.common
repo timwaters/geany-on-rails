@@ -5,7 +5,7 @@ default=0xDDDDDD;0x1A1A1A;false;false
 
 # 3rd selection argument is true to override default foreground
 # 4th selection argument is true to override default background
-selection=0xffffff;0x333964;false;true
+selection=0xffffff;0x333964;false;false
 
 # style for a matching brace
 brace_good=0xffffff;0x50AA15;true;false
